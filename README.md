@@ -1,4 +1,7 @@
-# ChatGPT Reviews Sentiment Analysis
+#Designed and Developed by Gunalan
+
+
+#ChatGPT Reviews Sentiment Analysis
 
 A comprehensive Natural Language Processing (NLP) project for sentiment analysis of ChatGPT reviews, classifying them as positive, neutral, or negative based on textual content.
 
